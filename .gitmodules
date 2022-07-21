@@ -1,0 +1,8 @@
+[submodule "plugins/extrakto"]
+	url = https://github.com/laktak/extrakto.git
+[submodule "plugins/tmux-mode-indicator"]
+	url = https://github.com/MunifTanjim/tmux-mode-indicator.git
+[submodule "plugins/tmux-resurrect"]
+	url = https://github.com/tmux-plugins/tmux-resurrect.git
+[submodule "plugins/tpm"]
+	url = https://github.com/tmux-plugins/tpm.git
