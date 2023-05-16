@@ -1,10 +1,10 @@
 [submodule "plugins/myblocks"]
     path = plugins/myblocks
-    url = git@github.com:barreiroleo/tmux-myblocks.git
+    url = https://github.com/barreiroleo/tmux-myblocks.git
 
 [submodule "plugins/tmux-net-speed"]
     path = plugins/tmux-net-speed
-    url = git@github.com:barreiroleo/tmux-net-speed.git
+    url = https://github.com/barreiroleo/tmux-net-speed.git
 
 [submodule "plugins/extrakto"]
     path = plugins/extrakto
