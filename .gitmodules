@@ -2,10 +2,6 @@
     path = plugins/myblocks
     url = https://github.com/barreiroleo/tmux-myblocks.git
 
-[submodule "plugins/tmux-net-speed"]
-    path = plugins/tmux-net-speed
-    url = https://github.com/barreiroleo/tmux-net-speed.git
-
 [submodule "plugins/tmux-mode-indicator"]
     path = plugins/tmux-mode-indicator
 	url = https://github.com/MunifTanjim/tmux-mode-indicator.git
